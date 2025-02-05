@@ -823,7 +823,7 @@ section{
 @media (max-width: 768px) {
     
     .home {
-        background-image: url('images/Wallpaper-mobile.jpg'); 
+        background-image: url('Wallpaper.jpg'); 
         height: auto; 
         padding-top: 200px;
         background-size:cover;
